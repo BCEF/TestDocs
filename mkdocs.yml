@@ -1,0 +1,5 @@
+site_name: VR小白快问快答
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
